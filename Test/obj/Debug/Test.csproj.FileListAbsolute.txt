@@ -1,0 +1,5 @@
+C:\Users\karl\Desktop\project1\project\projectcuanam\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\karl\Desktop\project1\project\projectcuanam\Test\obj\Debug\MainWindow.g.cs
+C:\Users\karl\Desktop\project1\project\projectcuanam\Test\obj\Debug\App.g.cs
+C:\Users\karl\Desktop\project1\project\projectcuanam\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\karl\Desktop\project1\project\projectcuanam\Test\obj\Debug\Test_MarkupCompile.lref

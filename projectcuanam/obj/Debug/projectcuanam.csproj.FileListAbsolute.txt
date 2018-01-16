@@ -1,0 +1,63 @@
+c:\users\karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\bin\Debug\projectcuanam.exe.config
+c:\users\karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\bin\Debug\projectcuanam.exe
+c:\users\karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\bin\Debug\projectcuanam.pdb
+c:\users\karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\projectcuanam.csprojResolveAssemblyReference.cache
+c:\users\karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\MainWindow.baml
+c:\users\karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\MainWindow.g.cs
+c:\users\karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\App.g.cs
+c:\users\karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\projectcuanam_MarkupCompile.cache
+c:\users\karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\projectcuanam.g.resources
+c:\users\karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\projectcuanam.Properties.Resources.resources
+c:\users\karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\projectcuanam.csproj.GenerateResource.Cache
+c:\users\karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\projectcuanam.exe
+c:\users\karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\projectcuanam.pdb
+C:\Users\Karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\bin\Debug\MahApps.Metro.dll
+C:\Users\Karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\bin\Debug\WPFToolkit.dll
+C:\Users\Karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\bin\Debug\MahApps.Metro.pdb
+C:\Users\Karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\bin\Debug\MahApps.Metro.xml
+C:\Users\Karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\Karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\Karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+C:\Users\Karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+C:\Users\Karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+C:\Users\Karl\documents\visual studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\projectcuanam.Form1.resources
+C:\Users\Karl\Documents\Visual Studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\Window1.baml
+C:\Users\Karl\Documents\Visual Studio 2013\Projects\projectcuanam\projectcuanam\obj\Debug\Window1.g.cs
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\projectcuanam.exe.config
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\projectcuanam.exe
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\projectcuanam.pdb
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\MahApps.Metro.dll
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\WPFToolkit.dll
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\MahApps.Metro.pdb
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\MahApps.Metro.xml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.csprojResolveAssemblyReference.cache
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\MainWindow.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Window1.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\MainWindow.g.cs
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Window1.g.cs
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\App.g.cs
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam_MarkupCompile.cache
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.g.resources
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.Form1.resources
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.Properties.Resources.resources
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.csproj.GenerateResource.Cache
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.csproj.CoreCompileInputs.cache
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.exe
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.pdb
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\left.g.cs
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam_MarkupCompile.lref
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\left.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\ShellBasics.dll
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\ShellBasics.pdb
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\LogicNP.ShellObjects.WPF.dll

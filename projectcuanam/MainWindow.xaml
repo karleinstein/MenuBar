@@ -1,0 +1,199 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:my="clr-namespace:LogicNP.ShellObjects;assembly=LogicNP.ShellObjects.WPF"
+        xmlns:ControlzEx="clr-namespace:ControlzEx;assembly=MahApps.Metro" x:Class="projectcuanam.MainWindow"
+        Title="MainWindow"  Margin="5" Left="-1" ResizeMode="NoResize" WindowStyle="None" Top="0" Loaded="Window_Loaded"
+        Width="1366" Height="25" 
+        Deactivated="Window_Deactivated" Activated="Window_Activated" 
+        AllowsTransparency="True"
+        Background="#333333" HorizontalContentAlignment="Center" Closing="Window_Closing"
+        >
+    <Grid >
+        <my:ShellAppBarWPF Height="16" Margin="141,9,135,0" x:Name="shlAppBar"  AllowedDragDockingEdges="None"/>
+        <DockPanel>
+            <Menu DockPanel.Dock="Right" Background="#333333" MenuItem.Click="CommonHandler" Width="36" BorderThickness="0">
+                <MenuItem Height="25" Width="36" Background="#333333" FontSize="12" Foreground="White" Click="MenuItem_Click_2" BorderThickness="0">
+                    <MenuItem.Icon>
+                        <Image Source="setup.png" Margin="0,-5,-10,-2" />
+                    </MenuItem.Icon>
+                    <MenuItem Header="Shutdown" Height="30" Width="150" Background="#333333" FontSize="12" Foreground="White" Click="MenuItem_Click_1" BorderThickness="0" >
+                        
+                        <MenuItem.Icon>
+                            <Image Source="shutdown.png" Margin="0,-5,-10,-2" />
+                        </MenuItem.Icon>
+
+                    </MenuItem>
+                    <MenuItem Header="Restart" Height="30" Width="150" Background="#333333" FontSize="12" Foreground="White" Click="MenuItem_Click_3" BorderThickness="0">
+                        <MenuItem.Icon>
+                            <Image Source="restart.ico" Margin="0,-5,-10,-2"/>
+                        </MenuItem.Icon>
+
+                    </MenuItem>
+                </MenuItem>
+            </Menu>
+            <Menu DockPanel.Dock="Right" Background="#333333" Width="50"  Margin="0 0 0 0" RenderTransformOrigin="0.5,0.5" >
+                <Menu.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="1"/>
+                    </TransformGroup>
+                </Menu.RenderTransform>
+                <TextBlock x:Name="date" Text="" Foreground="White" RenderTransformOrigin="0.5,0.5">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform Y="4"/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform></TextBlock>
+            </Menu>
+            <Menu DockPanel.Dock="Left" Background="#333333" BorderThickness="0" MenuItem.Click="CommonHandler" MouseDoubleClick="Menu_MouseDoubleClick">
+                <MenuItem BorderThickness="0" Width="33">
+                    <MenuItem.Icon>
+                        <Image Source="DeathStar.png" Margin="0,-5,-22,-3" RenderTransformOrigin="0.5,0.5">
+                            <Image.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform/>
+                                    <TranslateTransform X="-4" Y="1"/>
+                                </TransformGroup>
+                            </Image.RenderTransform>
+                        </Image>
+                    </MenuItem.Icon>
+                    <Label x:Name="label" Height="174" Width="221" Background="#FF333333" HorizontalContentAlignment="Center" Margin="-35,-2,-49,0" Padding="10" Cursor="No" IsHitTestVisible="True" ClipToBounds="False" SnapsToDevicePixels="False" HorizontalAlignment="Stretch" MinWidth="0" MinHeight="0" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.HorizontalScrollBarVisibility="Auto" Grid.IsSharedSizeScope="False" UseLayoutRounding="False" ScrollViewer.CanContentScroll="False">
+                        <Grid>
+                            <Button x:Name="button" Height="30" Width="80" Content="About Me" Foreground="Aqua" Background="Transparent" BorderThickness="0" Click="button_Click" IsCancel="True" />
+                            <Button RenderTransformOrigin="0.5,0.5" Content="Close Menu" BorderThickness="0" Foreground="#00CC00" Background="Transparent" Click="Button_Click_1">
+                                <Button.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform Y="93" X="-62"/>
+                                    </TransformGroup>
+                                </Button.RenderTransform>
+                            </Button>
+                        </Grid>
+
+                    </Label>
+
+                </MenuItem>
+                <MenuItem Header="Applications" Height="25" Width="81" Background="{x:Null}" FontSize="12" Foreground="White" BorderThickness="0" Click="MenuItem_Click">
+                    <MenuItem Header="Browser" x:Name="Browser" Background="#333333" BorderThickness="0">
+                        <MenuItem.Icon>
+                            <Image Source="folderz.png" Margin="1,-1,-14,-2"/>
+                        </MenuItem.Icon>
+                        <MenuItem Header="Chrome" Background="#333333" BorderThickness="0" Click="MenuItem_Click_7">
+                            <MenuItem.Icon>
+                                <Image Source="chrome.ico" Margin="0,-2,-11,-1"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+                    </MenuItem>
+                    <MenuItem Header="Regedit" x:Name="Regedit" Background="#333333" BorderThickness="0">
+                        <MenuItem.Icon>
+                            <Image
+                                Source="regedit.ico" Margin="0,-1,-17,0"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Task Manager" x:Name="taskmanager" Background="#333333" BorderThickness="0">
+                        <MenuItem.Icon>
+                            <Image Source="taskmgr.ico" Margin="4,-1,-12,0"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Services" x:Name="services" Background="#333333" BorderThickness="0"/>
+                    <MenuItem Header="AutoCad 2017" x:Name="cad17" Background="#FF535353" Click="cad17_Click" BorderThickness="0">
+                        <MenuItem.Icon>
+                            <Image Source="acad_1.ico"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="Developer" Foreground="White">
+                    <MenuItem  Header="Intelij" x:Name="intelij" Background="#333333" Click="intelij_Click" BorderThickness="0">
+                        <MenuItem.Icon >
+                            <Image Source="idea64_107.ico" Margin="0,0,-9,-1"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Keil C 4" Background="#333333" Click="MenuItem_Click_6" BorderThickness="0">
+                        <MenuItem.Icon>
+                            <Image Source="Uv4_120.ico" Margin="0,0,-9,0"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem   Header="Visual Studio Code" Background="#333333" Click="MenuItem_Click_5" BorderThickness="0">
+                        <MenuItem.Icon>
+                            <Image Source="Code_1.ico" Margin="0,0,-9,0"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Visual Studio 17" x:Name="vs" Background="#333333" Click="vs_Click"  BorderThickness="0">
+                        <MenuItem.Icon>
+                            <Image Source="vs.ico" Margin="2,0,-8,0"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Android Studio" x:Name="as" Background="#333333" Click="as_Click" BorderThickness="0">
+                        <MenuItem.Icon>
+                            <Image Source="as.png" Margin="0,0,-13,0"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Emulators" x:Name="emulators" Background="#333333" BorderThickness="0">
+                        <MenuItem.Icon>
+                            <Image Source="folderz.png" Margin="-1,-4,-14,-5"/>
+                        </MenuItem.Icon>
+                        <MenuItem Header="VirtualBox" x:Name="virtualbox" Background="#333333" BorderThickness="0" Click="virtualbox_Click">
+                            <MenuItem.Icon>
+                                <Image Source="virtualbox.ico" Margin="0,0,-8,0"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+                        <MenuItem Header="Genymotion" x:Name="genymotion" Background="#333333" BorderThickness="0" Click="genymotion_Click">
+                            <MenuItem.Icon>
+                                <Image Source="genymotion.ico" Margin="3 0 -3 0"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+                        <MenuItem Header="Genymotion Shell" x:Name="genymotionshell" Background="#333333" BorderThickness="0" Click="genymotionshell_Click">
+                            <MenuItem.Icon>
+                                <Image Source="genyshell.ico" Margin="0,0,-9,0"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="Utility" Height="25" Width="45" Background="{x:Null}" FontSize="12" Foreground="White" BorderThickness="0">
+                    <MenuItem Header="Photoshop" x:Name="photoshop" Background="#333333" Margin="0,0,-2,0" BorderThickness="0" Click="photoshop_Click">
+                        <MenuItem.Icon>
+                            <Image Source="Photoshop.ico" Margin="0,0,-12,-3"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Paint" x:Name="paint" Background="#333333" Margin="0,0,-2,0" BorderThickness="0"/>
+                    <MenuItem Header="MSI Afterburner" x:Name="msi" Background="#333333" BorderThickness="0" Click="msi_Click">
+
+                        <MenuItem.Icon>
+                            <Image Source="msi.ico" Margin="2 0 -4 0"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Discord" x:Name="discord" Background="#333333" Click="discord_Click" BorderThickness="0"/>
+                </MenuItem>
+                <MenuItem Header="Trash" Height="25" Width="49" Background="{x:Null}" FontSize="12" Foreground="White" Click="MenuItem_Click_4" BorderThickness="0"/>
+            </Menu>
+        </DockPanel>
+    </Grid>
+    <Window.Resources>
+        <Style x:Key="trash" TargetType="{x:Type Menu}">
+            <Setter Property="OverridesDefaultStyle" Value="True"/>
+            <Setter Property="SnapsToDevicePixels" Value="True"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Menu}">
+                        <!--Here is where you change the border thickness to zero on the menu-->
+                        <Border BorderThickness="0">
+                            <StackPanel ClipToBounds="True" Orientation="Horizontal"
+                      IsItemsHost="True"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+</Window>
+    

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Infragistics.Themes.MetroDark.Wpf</id>
+    <version>1.0.0</version>
+    <title>Infragistics WPF Metro Dark Theme</title>
+    <authors>Brian Lagunas</authors>
+    <owners>Brian Lagunas</owners>
+    <projectUrl>http://brianlagunas.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Infragistics WPF MetroDark Theme supports the following controls:
+
+Accordion 
+AutoCompleteBox 
+Button 
+CheckBox 
+ComboBox 
+Expander 
+GridSplitter 
+GroupBox 
+Label 
+ListBox 
+PasswordBox 
+ProgressBar 
+RadioButton 
+Rating 
+RepeatButton 
+Slider 
+TextBox 
+ToggleButton 
+Tooltip</description>
+    <summary>The Infragistics WPF MetroDark Theme provides control theming for 19 of the most common Microsoft built-in WPF controls.</summary>
+    <releaseNotes />
+    <tags>Infragistics WPF MetroDark Theme</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="PresentationCore" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="PresentationFramework" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="WindowsBase" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Xaml" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

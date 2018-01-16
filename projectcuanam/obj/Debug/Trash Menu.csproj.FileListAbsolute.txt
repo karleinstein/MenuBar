@@ -1,0 +1,70 @@
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\projectcuanam.exe.config
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\projectcuanam.exe
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\projectcuanam.pdb
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\LogicNP.ShellObjects.WPF.dll
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\MahApps.Metro.dll
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\WPFToolkit.dll
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\MahApps.Metro.pdb
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\bin\Debug\MahApps.Metro.xml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Trash Menu.csprojResolveAssemblyReference.cache
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\left.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\MainWindow.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Window1.baml
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\left.g.cs
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\MainWindow.g.cs
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Window1.g.cs
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\App.g.cs
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam_MarkupCompile.cache
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam_MarkupCompile.lref
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.g.resources
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.Form1.resources
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.Properties.Resources.resources
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Trash Menu.csproj.GenerateResource.Cache
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\Trash Menu.csproj.CoreCompileInputs.cache
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.exe
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.pdb
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\AboutMe.g.cs
+C:\Users\karl\Desktop\project1\project\projectcuanam\projectcuanam\obj\Debug\AboutMe.baml
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\bin\Debug\projectcuanam.exe.config
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\bin\Debug\projectcuanam.exe
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\bin\Debug\projectcuanam.pdb
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\bin\Debug\LogicNP.ShellObjects.WPF.dll
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\bin\Debug\MahApps.Metro.dll
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\bin\Debug\WPFToolkit.dll
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\bin\Debug\MahApps.Metro.pdb
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\bin\Debug\MahApps.Metro.xml
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\MainWindow.baml
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\Window1.baml
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\AboutMe.g.cs
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\left.g.cs
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\MainWindow.g.cs
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\Window1.g.cs
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\App.g.cs
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam_MarkupCompile.cache
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam_MarkupCompile.lref
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\AboutMe.baml
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\left.baml
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.g.resources
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.Form1.resources
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.Properties.Resources.resources
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\Trash Menu.csproj.GenerateResource.Cache
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\Trash Menu.csproj.CoreCompileInputs.cache
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.exe
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\projectcuanam.pdb
+C:\Users\karleinstein\Downloads\project1\project\projectcuanam\projectcuanam\obj\Debug\Trash Menu.csprojResolveAssemblyReference.cache

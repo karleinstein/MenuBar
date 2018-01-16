@@ -1,0 +1,82 @@
+﻿<Window x:Class="projectcuanam.AboutMe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:my="clr-namespace:LogicNP.ShellObjects;assembly=LogicNP.ShellObjects.WPF"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:projectcuanam"
+        mc:Ignorable="d"
+        Title="AboutMe" Height="768" Width="1366"
+        Background="#727A7A7A"
+        AllowsTransparency="True"
+        BorderBrush="#FF0000"
+        Topmost="True"
+        ResizeMode="NoResize" WindowStyle="None"
+        Top="0" Left="0"
+        HorizontalContentAlignment="Center"
+       >
+    
+    <Grid Loaded="yeah">
+        <my:ShellAppBarWPF Height="16" Margin="141,9,135,0" Name="shlAppBar"  AllowedDragDockingEdges="Top"/>
+        <Button x:Name="close" Background="Transparent" Content="CLOSE" Height="30" Width="70" Foreground="White" FontWeight="Bold"
+              Margin="648 500 648 164" Click="Button_Click" HorizontalAlignment="Center" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="124"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <TextBlock HorizontalAlignment="Left" Margin="928,110,0,0" TextWrapping="Wrap" Text="Contact me" VerticalAlignment="Top" Height="66" Width="268" Foreground="#009900"
+                   FontSize="47" />
+        <Label  HorizontalAlignment="Left" Margin="830,197,0,0" VerticalAlignment="Top" Height="81" Width="384"
+                Background="#727A7A7A" BorderBrush="#00CC00" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform X="16"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+            <Grid Height="71" Width="420">
+                <TextBlock FontWeight="Bold" TextWrapping="Wrap" Text=" Karl Einstein" Foreground="#333333" FontSize="30" RenderTransformOrigin="0.5,0.5" Height="40" Width="200">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform X="-108" Y="-15"/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBlock Text="Facebook" FontSize="20" Height="30" Width="200" RenderTransformOrigin="0.5,0.5" Margin="0,0,206,15">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform X="4" Y="21"/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform></TextBlock>
+                <Button Margin="336,0,10,0"  Click="Button_Clickz" Background="#727A7A7A" BorderThickness="0" RenderTransformOrigin="0.5,0.5">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform X="-62"/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                    <Image Source="avatar.jpg" Width="74" RenderTransformOrigin="0.723,0.5" ></Image>
+                </Button>
+            </Grid>
+
+
+
+        </Label>
+
+    </Grid>
+</Window>

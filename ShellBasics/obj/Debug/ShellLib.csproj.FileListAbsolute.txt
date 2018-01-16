@@ -1,0 +1,14 @@
+C:\Users\karl\Desktop\csdoesshell3_demo\ShellBasics\ShellBasics\bin\Debug\ShellBasics.dll
+C:\Users\karl\Desktop\csdoesshell3_demo\ShellBasics\ShellBasics\bin\Debug\ShellBasics.pdb
+C:\Users\karl\Desktop\csdoesshell3_demo\ShellBasics\ShellBasics\obj\Debug\ShellLib.csprojResolveAssemblyReference.cache
+C:\Users\karl\Desktop\csdoesshell3_demo\ShellBasics\ShellBasics\obj\Debug\ShellLib.ApplicationDesktopToolbar.resources
+C:\Users\karl\Desktop\csdoesshell3_demo\ShellBasics\ShellBasics\obj\Debug\ShellLib.csproj.GenerateResource.Cache
+C:\Users\karl\Desktop\csdoesshell3_demo\ShellBasics\ShellBasics\obj\Debug\ShellLib.csproj.CoreCompileInputs.cache
+C:\Users\karl\Desktop\csdoesshell3_demo\ShellBasics\ShellBasics\obj\Debug\ShellBasics.dll
+C:\Users\karl\Desktop\csdoesshell3_demo\ShellBasics\ShellBasics\obj\Debug\ShellBasics.pdb
+C:\Users\karl\Desktop\project1\project\projectcuanam\ShellBasics\bin\Debug\ShellBasics.dll
+C:\Users\karl\Desktop\project1\project\projectcuanam\ShellBasics\bin\Debug\ShellBasics.pdb
+C:\Users\karl\Desktop\project1\project\projectcuanam\ShellBasics\obj\Debug\ShellLib.csprojResolveAssemblyReference.cache
+C:\Users\karl\Desktop\project1\project\projectcuanam\ShellBasics\obj\Debug\ShellLib.csproj.CoreCompileInputs.cache
+C:\Users\karl\Desktop\project1\project\projectcuanam\ShellBasics\obj\Debug\ShellBasics.dll
+C:\Users\karl\Desktop\project1\project\projectcuanam\ShellBasics\obj\Debug\ShellBasics.pdb
